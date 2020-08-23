@@ -44,7 +44,6 @@
 ### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Beginners Guide to React](https://tropyl.com/beginners-guide-to-react-ckd615kn0014mn5s1g26wcvar)
 - [What is Cryptography?](https://tropyl.com/what-is-cryptography-ckd1dkixw004kc4s1axoo8e4i)
 - [Information Gathering with "theHarvester"](https://tropyl.com/information-gathering-with-theharvester-ckcuotdsm008i7os1gtwyfxjv)
