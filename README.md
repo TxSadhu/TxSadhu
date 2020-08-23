@@ -56,8 +56,7 @@
 ---
 
 ![Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=txsadhu&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=txsadhu&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=txsadhu&show_icons=true&hide_border=true)
 
 [website]: https://tropyl.com
 [twitter]: https://twitter.com/txsadhu
