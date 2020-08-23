@@ -50,8 +50,6 @@
 - [What is an API?](https://tropyl.com/what-is-an-api-ckcr2dg0c009vpms11ixv82gd)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://tropyl.com)
-
 ---
 
 ![Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=txsadhu&show_icons=true&hide_border=true)
