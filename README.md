@@ -39,6 +39,17 @@
 <br />
 <br />
 
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://tropyl.com)
+
+---
+
 [website]: https://tropyl.com
 [twitter]: https://twitter.com/txsadhu
 [instagram]: https://instagram.com/suman.basuli
