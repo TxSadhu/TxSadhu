@@ -50,6 +50,20 @@
 
 ---
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="TxSadhu's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=txsadhu&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Top Languages</summary>
+
+  <img align="left" alt="TxSadhu's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=txsadhu&layout=compact" />
+
+</details>
+
 [website]: https://tropyl.com
 [twitter]: https://twitter.com/txsadhu
 [instagram]: https://instagram.com/suman.basuli
