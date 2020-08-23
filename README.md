@@ -44,6 +44,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Beginners Guide to React](https://tropyl.com/beginners-guide-to-react-ckd615kn0014mn5s1g26wcvar)
 - [What is Cryptography?](https://tropyl.com/what-is-cryptography-ckd1dkixw004kc4s1axoo8e4i)
 - [Information Gathering with "theHarvester"](https://tropyl.com/information-gathering-with-theharvester-ckcuotdsm008i7os1gtwyfxjv)
@@ -54,19 +55,8 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="TxSadhu's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=txsadhu&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Top Languages</summary>
-
-  <img align="left" alt="TxSadhu's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=txsadhu&layout=compact" />
-
-</details>
+[![Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=txsadhu&show_icons=true&hide_border=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=txsadhu&layout=compact)]
 
 [website]: https://tropyl.com
 [twitter]: https://twitter.com/txsadhu
