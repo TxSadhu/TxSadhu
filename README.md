@@ -39,9 +39,8 @@
 <br />
 <br />
 
----
 
-### 📕 Latest Blog Posts:
+### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [Beginners Guide to React](https://tropyl.com/beginners-guide-to-react-ckd615kn0014mn5s1g26wcvar)
@@ -50,7 +49,6 @@
 - [What is an API?](https://tropyl.com/what-is-an-api-ckcr2dg0c009vpms11ixv82gd)
 <!-- BLOG-POST-LIST:END -->
 
----
 
 ![Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=txsadhu&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=txsadhu&show_icons=true&hide_border=true)
