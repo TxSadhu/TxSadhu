@@ -43,7 +43,7 @@
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Denial-of-Wallet attacks: Moving to serverless... think again !](https://tropyl.com/denial-of-wallet-attacks-moving-to-serverless-think-again)
+- [DoW: Moving to serverless... think again !](https://tropyl.com/denial-of-wallet-attacks-moving-to-serverless-think-again)
 - [Beginners Guide to React](https://tropyl.com/beginners-guide-to-react)
 - [What is Cryptography?](https://tropyl.com/what-is-cryptography)
 - [Information Gathering with "theHarvester"](https://tropyl.com/information-gathering-with-theharvester)
