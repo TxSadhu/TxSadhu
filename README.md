@@ -43,11 +43,11 @@
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Information Gathering with "Recon-ng"](https://tropyl.com/information-gathering-with-recon-ng)
 - [DoW: Moving to serverless... think again !](https://tropyl.com/denial-of-wallet-attacks-moving-to-serverless-think-again)
 - [Beginners Guide to React](https://tropyl.com/beginners-guide-to-react)
 - [What is Cryptography?](https://tropyl.com/what-is-cryptography)
 - [Information Gathering with "theHarvester"](https://tropyl.com/information-gathering-with-theharvester)
-- [What is an API?](https://tropyl.com/what-is-an-api)
 <!-- BLOG-POST-LIST:END -->
 
 ---
