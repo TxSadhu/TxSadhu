@@ -57,6 +57,8 @@
 - [The complete beginners guide to React (with pictures)](https://jsdev.rocks/beginners-guide-to-react-ckd615kn0014mn5s1g26wcvar)
 <!-- JSDEV:END -->
 
+---
+
 ![Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=txsadhu&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=txsadhu&show_icons=true&hide_border=true)
 
