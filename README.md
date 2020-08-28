@@ -40,7 +40,7 @@
 <br />
 
 
-### Latest Blog Posts:
+### Latest Blog Posts (Related Cyber Security):
 
 <!-- BLOG-POST-LIST:START -->
 - [Information Gathering with Recon-ng (also learn Recon-web)](https://tropyl.com/information-gathering-with-recon-ng)
@@ -51,6 +51,10 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
+### Latest Blog Posts (Related Dev):
+<!-- JSDEV:START -->
+<!-- JSDEV:END -->
 
 ![Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=txsadhu&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=txsadhu&show_icons=true&hide_border=true)
