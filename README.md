@@ -40,7 +40,7 @@
 <br />
 
 
-### Latest Blog Posts (Related Cyber Security):
+### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [Information Gathering with Recon-ng (also learn Recon-web)](https://tropyl.com/information-gathering-with-recon-ng-also-learn-recon-web/)
@@ -49,13 +49,6 @@
 - [Information Gathering with “theHarvester”](https://tropyl.com/information-gathering-with-theharvester/)
 - [What is an API?](https://tropyl.com/what-is-an-api/)
 <!-- BLOG-POST-LIST:END -->
-
----
-
-### Latest Blog Posts (Related Dev):
-<!-- JSDEV:START -->
-- [The complete beginners guide to React (with pictures)](https://jsdev.rocks/beginners-guide-to-react-ckd615kn0014mn5s1g26wcvar)
-<!-- JSDEV:END -->
 
 ---
 
