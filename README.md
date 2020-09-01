@@ -43,11 +43,11 @@
 ### Latest Blog Posts (Related Cyber Security):
 
 <!-- BLOG-POST-LIST:START -->
-- [Information Gathering with Recon-ng (also learn Recon-web)](https://tropyl.com/information-gathering-with-recon-ng)
-- [DoW: Moving to serverless... think again !](https://tropyl.com/denial-of-wallet-attacks-moving-to-serverless-think-again)
-- [The complete beginners guide to Cryptography (with pictures)](https://tropyl.com/what-is-cryptography)
-- [Information Gathering with "theHarvester"](https://tropyl.com/information-gathering-with-theharvester)
-- [What is an API?](https://tropyl.com/what-is-an-api)
+- [Information Gathering with Recon-ng (also learn Recon-web)](https://tropyl.com/information-gathering-with-recon-ng-also-learn-recon-web/)
+- [DoW: Moving to serverless… think again!](https://tropyl.com/denial-of-wallet-attacks-moving-to-serverless-think-again/)
+- [The complete beginners guide to Cryptography (with pictures)](https://tropyl.com/what-is-cryptography/)
+- [Information Gathering with “theHarvester”](https://tropyl.com/information-gathering-with-theharvester/)
+- [What is an API?](https://tropyl.com/what-is-an-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
