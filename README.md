@@ -5,8 +5,7 @@
 ## I'm a Developer, Hacker, and Student!
 
 - 🔭 I’m currently working on my website [Tropyl][website]!
-- 🌱 I’m currently learning Django, React, and Pentesting!
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
