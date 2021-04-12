@@ -49,8 +49,6 @@
 - [Information Gathering with “theHarvester”](https://tropyl.com/information-gathering-with-theharvester/)
 <!-- BLOG-POST-LIST:END -->
 
----
-
 [website]: https://tropyl.com
 [twitter]: https://twitter.com/txsadhu
 [instagram]: https://instagram.com/suman.basuli
