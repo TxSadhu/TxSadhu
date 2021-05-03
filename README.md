@@ -12,7 +12,6 @@
 [<img align="left" alt="tropyl.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="TxSadhu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="TxSadhu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="suman.basuli | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -29,5 +28,4 @@
 
 [website]: https://tropyl.com
 [twitter]: https://twitter.com/txsadhu
-[instagram]: https://instagram.com/suman.basuli
 [linkedin]: https://linkedin.com/in/suman-basuli
