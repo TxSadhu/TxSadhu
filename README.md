@@ -19,11 +19,11 @@
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding Technical Weakness with Nikto](https://tropyl.com/finding-technical-weakness-with-nikto)
-- [Information Gathering with Recon-ng (also learn Recon-web)](https://tropyl.com/information-gathering-with-recon-ng)
-- [The complete beginners guide to React (with pictures)](https://tropyl.com/beginners-guide-to-react)
-- [The complete beginners guide to Cryptography (with pictures)](https://tropyl.com/what-is-cryptography)
-- [Information Gathering with "theHarvester"](https://tropyl.com/information-gathering-with-theharvester)
+- [Finding Technical Weakness with Nikto](https://tropyl.com/finding-technical-weakness-with-nikto/)
+- [Information Gathering with Recon-ng (also learn Recon-web)](https://tropyl.com/information-gathering-with-recon-ng/)
+- [The complete beginners guide to React (with pictures)](https://tropyl.com/beginners-guide-to-react/)
+- [The complete beginners guide to Cryptography (with pictures)](https://tropyl.com/what-is-cryptography/)
+- [Information Gathering with “theHarvester”](https://tropyl.com/information-gathering-with-theharvester/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://tropyl.com
